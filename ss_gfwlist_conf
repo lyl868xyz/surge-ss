@@ -7,7 +7,8 @@ loglevel = notify
 
 [Proxy]
 ?DIRECT = direct
-??US = custom,your server,aes-256-cfb,your password,https://github.com/R0uter/ss.conf-for-surge/raw/master/ss.module
+??US = custom,your server,aes-256-cfb,your password,https://github.com/lyl868xyz/surge-ss/master/ss.module
+
  
 [Proxy Group]
 Proxy = select,?DIRECT,??US
