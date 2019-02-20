@@ -1,6 +1,5 @@
 ## ss configuration for Surge
-thanks to the original version form R0outer
-people who have interst, please refer to [![Build Status](https://travis-ci.org/R0uter/ss.conf-for-surge.svg?branch=master)](https://travis-ci.org/R0uter/ss.conf-for-surge)
+thanks to the original version from R0outer, people who have interst, please refer to (https://travis-ci.org/R0uter/ss.conf-for-surge)
 
 ## Proxy list 
 
