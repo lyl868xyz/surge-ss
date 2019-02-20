@@ -5,8 +5,6 @@ thanks to the original version from R0outer, people who have interst, please ref
 
 Proxy list is generate from gfwlist, all marked with `force-remote-dns`.
 
-White list come from [GFW Domain White List](https://goo.gl/tBixve).
-
 
 ## How to use
 
